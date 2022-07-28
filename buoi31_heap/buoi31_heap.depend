@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1609593605 source:d:\codeblocks files\buoi31_heap\qbheap.cpp
+	<bits/stdc++.h>
+
+1609948047 source:d:\codeblocks files\buoi31_heap\huffman.cpp
+	<bits/stdc++.h>
+
+1610012883 source:d:\codeblocks files\buoi31_heap\reach.cpp
+	<bits/stdc++.h>
+

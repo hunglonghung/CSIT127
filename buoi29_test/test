@@ -1,0 +1,23 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+    int res=0;
+    string A[7];
+    for(int i=1;i<=6;i++)
+    {
+        cin>>A[i];
+    	if(A[i]=='W')
+            res++;
+    	else
+            res--;
+    }
+    if(res==5||res==6)
+        cout<<"1";
+    if(res==3||res==4)
+        cout<<"2";
+    if(res==1||res==2)
+        cout<<"3";
+	if(res==0)
+        cout<<"-1";
+}
